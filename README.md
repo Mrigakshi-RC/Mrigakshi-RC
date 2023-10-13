@@ -18,6 +18,14 @@
 </div>
 
 ### :woman_technologist: About Me :
+I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: I’m working as a Software Engineer Intern and contributing to frontend for building web applications.
+
+- :seedling: Exploring skills to become a better and responsible developer.
+
+- :zap: In my free time, I solve problems on Leetcode and play with existing code of my past projects.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mrigakshi-roy-choudhury/)
 
 <!--
 **Mrigakshi-RC/Mrigakshi-RC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
