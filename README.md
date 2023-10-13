@@ -18,7 +18,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a Frontend Developer <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="30"> from India.
+I am a Frontend Developer <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="10"> from India.
 - :telescope: I’m working as a Software Engineer Intern and contributing to frontend for building web applications.
 
 - :seedling: Exploring skills to become a better and responsible developer.
