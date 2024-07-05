@@ -19,7 +19,7 @@
 
 ### :woman_technologist: About Me :
 I am a Frontend Developer <img src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer Intern and contributing to frontend for building web applications.
+- :telescope: I’m working as a Frontend Developer who does nothing but builds web applications.
 
 - :seedling: Exploring skills to become a better and responsible developer.
 
