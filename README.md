@@ -19,11 +19,7 @@
 
 ### :woman_technologist: About Me :
 I am a Frontend Developer <img src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Frontend Developer who does nothing but build web applications.
-
-- :seedling: Exploring skills to become a better and responsible developer.
-
-- :zap: In my free time, I look out for new updates in my tech stack and use that knowledge to constantly build or integrate something new.
+- :telescope: I’m a Developer who knows nothing other than building web applications.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mrigakshi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mrigakshi-roy-choudhury/)
 
