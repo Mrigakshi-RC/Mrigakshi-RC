@@ -18,7 +18,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-- :telescope: I’m a Developer who knows nothing other than building web applications (as of yet, wait for me bishes).
+- :telescope: I’m a Developer who knows nothing other than building web applications (as of yet, just u wait for me bishes).
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mrigakshi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mrigakshi-roy-choudhury/)
 
