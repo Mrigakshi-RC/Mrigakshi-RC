@@ -1,4 +1,4 @@
-Backend engineer in Singapore. MTech Software Engineering, NUS-ISS.
+Backend engineer in Singapore. MTech Software Engineering, NUS.
 
 Go · Redis · PostgreSQL · Docker · Kubernetes · TypeScript/React
 
